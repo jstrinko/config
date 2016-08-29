@@ -1,0 +1,36 @@
+{
+	"name": "jconfig",
+	"description": "Simple configuration file loader",
+	"version": "0.0.1",
+	"homepage": "https://github.com/jstrinko/config",
+	"author": {
+		"name": "Jeff Strinko",
+		"email": "jstrinko@gmail.com",
+		"url": "https://github.com/jstrinko"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jstrinko/sbot.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jstrinko/config/issues"
+	},
+	"files": {
+		"lib/config.js"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/jstrinko/config/blob/mstaer/LICENSE-MIT"
+		}
+	],
+	"main": "lib/config.js",
+	"engines": {
+		"node": ">= 0.8.0"
+	},
+	"keywords": [
+		"config utility",
+		"configuration",
+		"configuration utility"
+	]
+}

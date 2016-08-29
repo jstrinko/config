@@ -1,5 +1,5 @@
 {
-	"name": "jconfig",
+	"name": "json-configr",
 	"description": "Simple configuration file loader",
 	"version": "0.0.1",
 	"homepage": "https://github.com/jstrinko/config",

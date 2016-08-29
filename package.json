@@ -15,9 +15,9 @@
 	"bugs": {
 		"url": "https://github.com/jstrinko/config/issues"
 	},
-	"files": {
+	"files": [
 		"lib/config.js"
-	},
+	],
 	"licenses": [
 		{
 			"type": "MIT",

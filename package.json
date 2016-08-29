@@ -1,7 +1,7 @@
 {
 	"name": "json-configr",
 	"description": "Simple configuration file loader",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "https://github.com/jstrinko/config",
 	"author": {
 		"name": "Jeff Strinko",
@@ -32,5 +32,8 @@
 		"config utility",
 		"configuration",
 		"configuration utility"
-	]
+	],
+	"dependencies": {
+		"lodash": "^4.15.0"
+	}
 }
